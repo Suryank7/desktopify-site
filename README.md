@@ -117,11 +117,8 @@ The project is also suitable for developers who want to learn more about Tailwin
 👤 Author
 ----------
 
-* **Name**: John Doe
-* **Email**: [johndoe@example.com](mailto:johndoe@example.com)
-* **GitHub**: [https://github.com/johndoe](https://github.com/johndoe)
+* **Name**: Suryank MAlik
+* **Email**: [asksuryank@gmail.com](mailto:asksuryank@gmail.com)
+* **GitHub**: [https://github.com/suryank7](https://github.com/suryank7)
 
-📝 License
-----------
 
-* **MIT License**: This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
